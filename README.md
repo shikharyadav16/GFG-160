@@ -69,7 +69,7 @@ problems.
 
 ## 📅 Progress Tracker
 
--   ✅ Day 1: Problem 1 (String to Integer - `atoi`)
+-   ✅ Day 1: Problem 1 (Second Largest Element)
 -   ⏳ More problems will be added daily...
 
 ------------------------------------------------------------------------
@@ -84,7 +84,7 @@ Feel free to fork and try problems in your own way!
 ## 📌 Author
 
 👤 **Shikhar Yadav**\
-💻 Coder \| Data Engineer \| Full Stack Developer \| Gamer
+💻 Coder \| ML Engineer \| Full Stack Developer
 
 ------------------------------------------------------------------------
 
