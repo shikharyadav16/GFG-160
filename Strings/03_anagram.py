@@ -3,6 +3,7 @@
 def checkAnagram(s1, s2):
     temp = {}
 
+
     for i in range(len(s1)):
         temp[s1[i]] = temp.get(s1[i], 0) + 1
 
